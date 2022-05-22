@@ -1,0 +1,8 @@
+# ignore personal files
+.env
+
+# ignore libraries dir
+/vendor
+/web
+
+
