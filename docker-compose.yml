@@ -31,7 +31,7 @@ services:
       ASDA_PASSWORD:
       GITHUB_API_TOKEN:
       GITLAB_API_TOKEN:
-      DOCUMENT_ROOT: ${PWD}
+      DOCUMENT_ROOT: ${PWD}/web
       XDEBUG_CONFIG: "remote_enable=1 remote_host=10.254.254.254 remote_port=9003 idekey=cloud9ide remote_autostart=1"
       PHP_IDE_CONFIG: "serverName=Docker"
     env_file:
