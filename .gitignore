@@ -1,8 +1,10 @@
 # ignore personal files
 .env
+docker-compose.override.yml
 
 # ignore libraries dir
 /vendor
 /web
+db/
 
 
