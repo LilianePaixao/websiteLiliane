@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: en
+uuid: 19d5e31b-3f03-4ab0-a59b-d642295b1f62
+name: 'Liliane Paixão'
+mail: admin@example.com
+slogan: 'Portifólio de desenvolvimento web'
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
