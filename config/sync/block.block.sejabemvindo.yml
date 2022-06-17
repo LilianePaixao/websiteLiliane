@@ -1,0 +1,25 @@
+uuid: 3c736e98-600c-48c3-a91b-50d9dfa90468
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:a722573f-5d1e-41e9-838a-f652433ba90c'
+  module:
+    - block_content
+  theme:
+    - tara
+id: sejabemvindo
+theme: tara
+region: content_home
+weight: -5
+provider: null
+plugin: 'block_content:a722573f-5d1e-41e9-838a-f652433ba90c'
+settings:
+  id: 'block_content:a722573f-5d1e-41e9-838a-f652433ba90c'
+  label: 'Seja bem-vindo'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

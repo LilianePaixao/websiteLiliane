@@ -9,7 +9,7 @@ _core:
 id: tara_local_tasks
 theme: tara
 region: content
-weight: -8
+weight: -4
 provider: null
 plugin: local_tasks_block
 settings:
@@ -17,6 +17,6 @@ settings:
   label: Tabs
   label_display: '0'
   provider: core
-  primary: true
-  secondary: true
+  primary: false
+  secondary: false
 visibility: {  }

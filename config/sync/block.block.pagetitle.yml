@@ -1,0 +1,24 @@
+uuid: 62a036e8-5eec-4b73-8d07-ce226c5b6c66
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - tara
+id: pagetitle
+theme: tara
+region: content
+weight: -6
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Sobre a autora'
+  label_display: '0'
+  provider: core
+visibility:
+  request_path:
+    id: request_path
+    negate: true
+    pages: ''

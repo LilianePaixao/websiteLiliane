@@ -1,0 +1,25 @@
+uuid: 577bfbbd-6f91-4ae1-970e-11cbf3847e5c
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:b28647ec-bd4a-4690-b18f-ebc19066a611'
+  module:
+    - block_content
+  theme:
+    - tara
+id: desafiosvencidos
+theme: tara
+region: content_home
+weight: -4
+provider: null
+plugin: 'block_content:b28647ec-bd4a-4690-b18f-ebc19066a611'
+settings:
+  id: 'block_content:b28647ec-bd4a-4690-b18f-ebc19066a611'
+  label: 'Guia de Planejamento'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

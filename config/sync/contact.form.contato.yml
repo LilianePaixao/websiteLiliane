@@ -1,0 +1,12 @@
+uuid: 17de8cea-b3ff-4729-9e2f-2153b697567a
+langcode: en
+status: true
+dependencies: {  }
+id: contato
+label: Contato
+recipients:
+  - cpaixaoliliane@gmail.com
+reply: 'Responderemos assim que possível'
+weight: 0
+message: 'Sua mensagem foi enviada! Aguarde que em breve responderemos'
+redirect: /node/4

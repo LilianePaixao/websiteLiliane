@@ -1,0 +1,25 @@
+uuid: bb11478d-caa4-4235-8649-278560f9574a
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:9ad65e1b-db05-4362-955f-3a75b13a9dc6'
+  module:
+    - block_content
+  theme:
+    - tara
+id: projetos
+theme: tara
+region: content_home
+weight: 0
+provider: null
+plugin: 'block_content:9ad65e1b-db05-4362-955f-3a75b13a9dc6'
+settings:
+  id: 'block_content:9ad65e1b-db05-4362-955f-3a75b13a9dc6'
+  label: Projetos
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

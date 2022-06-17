@@ -21,11 +21,12 @@ github_url: 'https://github.com/LilianePaixao'
 telegram_url: ''
 vimeo_url: ''
 slider_show: 1
-slider_image: {  }
+slider_image:
+  - '1'
 slider_time: '5000'
 slider_dots: 'true'
-slider_code: ''
-front_sidebar: 0
+slider_code: "<li>\r\n\t<h1>Slider Heading One</h1>\r\n\t<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>\r\n\t<br />\r\n\t<a class=\"button\" href=\"#\">read more</a>\r\n</li>\r\n<li>\r\n\t<h1>Slider Heading Two</h1>\r\n\t<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>\r\n\t<br />\r\n\t<a class=\"button\" href=\"#\">read more</a>\r\n</li>\r\n<li>\r\n\t<h1>Slider Heading Three</h1>\r\n\t<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>\r\n\t<br />\r\n\t<a class=\"button\" href=\"#\">read more</a>\r\n</li>\r\n<li>\r\n\t<h1>Slider Heading Four</h1>\r\n\t<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>\r\n\t<br />\r\n\t<a class=\"button\" href=\"#\">read more</a>\r\n</li>"
+front_sidebar: 1
 google_font: local
 comment_user_pic: 0
 node_author_pic: 0
