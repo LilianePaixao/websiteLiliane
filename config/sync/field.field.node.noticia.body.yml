@@ -1,0 +1,23 @@
+uuid: 7277b55c-7aa7-44e7-a057-2946eee9852d
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.noticia
+  module:
+    - text
+id: node.noticia.body
+field_name: body
+entity_type: node
+bundle: noticia
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+field_type: text_with_summary

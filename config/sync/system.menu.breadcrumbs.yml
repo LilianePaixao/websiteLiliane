@@ -1,0 +1,8 @@
+uuid: 354d462f-1434-4015-95c1-474f59524ef4
+langcode: en
+status: true
+dependencies: {  }
+id: breadcrumbs
+label: Breadcrumbs
+description: ''
+locked: false
